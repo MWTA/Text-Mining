@@ -40,10 +40,10 @@ from wordcloud import WordCloud
 from nltk.stem import WordNetLemmatizer
 
 
-path_corpus_1 = '/home/rodriguesfas/Workspace/Mining-Text/MT_2018_PPGIA/AULA_07/LE_05/NLP.txt'
-path_corpus_2 = '/home/rodriguesfas/Workspace/Mining-Text/MT_2018_PPGIA/AULA_07/LE_05/Corpus_en_NER.txt'
-path_stopwords = '/home/rodriguesfas/Workspace/Mining-Text/MT_2018_PPGIA/AULA_07/LE_05/stopwords.txt'
-path_sent = '/home/rodriguesfas/Workspace/Mining-Text/MT_2018_PPGIA/AULA_07/LE_05/sent.txt'
+path_corpus_1 = '/home/rodriguesfas/Workspace/Text-Mining/MT_2018_PPGIA/AULA_07/LE_05/NLP.txt'
+path_corpus_2 = '/home/rodriguesfas/Workspace/Text-Mining/MT_2018_PPGIA/AULA_07/LE_05/Corpus_en_NER.txt'
+path_stopwords = '/home/rodriguesfas/Workspace/Text-Mining/MT_2018_PPGIA/AULA_07/LE_05/stopwords.txt'
+path_sent = '/home/rodriguesfas/Workspace/Text-Mining/MT_2018_PPGIA/AULA_07/LE_05/sent.txt'
 
 TEST = True
 
