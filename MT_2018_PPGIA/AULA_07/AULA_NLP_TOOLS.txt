@@ -1,0 +1,235 @@
+
+=========================================
+ROTEIRO DA AULA - FERRAMENTAS DE PLN
+=========================================
+
+============
+1. CORENLP
+============
+
+GitHub
+https://github.com/stanfordnlp/CoreNLP
+
+Artigo 
+https://nlp.stanford.edu/pubs/StanfordCoreNlp2014.pdf
+
+Site
+https://nlp.stanford.edu/
+
+ /SOFTAWE e Projects
+
+http://stanfordnlp.github.io/CoreNLP/
+  . Linguas suportadas
+     .  MODELOS
+
+  . Modos de Uso (client/server)
+
+  . ORDEM DO PIPELINE
+       http://stanfordnlp.github.io/CoreNLP/dependencies.html
+
+  . TAREFAS (Annotators)
+      http://stanfordnlp.github.io/CoreNLP/annotators.html
+
+  .  PARSING 
+      . CONSTITUINTE
+
+      . DEPENDENCY
+        https://nlp.stanford.edu/software/stanford-dependencies.shtml
+      .  APLICACOES PARA RE  // padrão SVO --> Open IE 
+
+      . Tipos das  dependências
+           http://wiki.opencog.org/w/Dependency_relations#Standard_list_of_dependency_relations
+
+      . Universal depedencies
+        http://universaldependencies.org/
+    
+       . http://universaldependencies.org/en/dep/all.html
+
+  . Coreference Resolution
+     Exemplo: John saw Mary and her father at the park. He was alarmed by the old man’s fierce glare.
+
+  . Outras tarefas que veremos depois
+     .Sentiment Analysis
+     .Relation Extraction
+     .Open IE
+     . Natural Logic
+
+
+DEMO 
+http://nlp.stanford.edu:8080/corenlp/
+ .  formatos de saída em xml e json
+
+http://corenlp.run/
+  . formato de saída gráfica
+
+
+// SENTENCES Types para experimentas no CoreNLP - demo web
+
+* Simple Sentences
+Joe waited for the train.
+Mary and Samantha took the bus.
+Joe waited for the train, but the train was late.
+
+* Compound Sentences
+Mary and Samantha arrived at the bus station before noon, and they left on the bus before I arrived.
+Last year, I visited you and your mother, Helen Parker.
+
+*Subordinate Sentences
+While he waited at the train station, Joe realized that the train was late.
+
+
+*Long Sentence
+If a fusion experiment in France succeeds, it could shape the power plants of the future and contribute greatly to reducing planet-warming emissions.
+
+*Coreference Resolution
+Richard stared at himself in the mirror.
+John saw Mary and her father at the park. He was alarmed by the old man’s fierce glare.
+
+NER
+Top Democrats rebuked Representative Devin Nunes for his secret meeting on the White House.
+
+===============
+2.  GATE 
+===============
+
+ . slides
+ . Demo
+
+3. Tutorial Instalação/Uso e Exercícios em breve
+
+DEMO
+http://services.gate.ac.uk/annie/
+
+
+===================
+3. ILINOIS 
+===================
+
+// Slides: 01 (Tasks) e 02 (Curator Demo)
+
+Principal
+https://cogcomp.cs.illinois.edu/
+
+
+Resources
+  / Corpora
+  / Data
+     . Wikipedia
+     . Entity and Relation Recognition (formato CONNLL)
+     . Google Web 1T corpus
+     . Seminar and Jobs posting (IE)
+     . CNN (segmentado por parágrafo)
+
+Software
+   / Similarity Packages
+   / NLP Tools
+      . Curator + publication  
+         --> Slides/Annotators (Meus slides)
+              . DEMO na Web
+
+http://cogcomp.cs.illinois.edu/curator/demo/
+
+// Sentenças para Experimentar 
+
+If a fusion experiment in France succeeds, it could shape the power plants of the future and contribute greatly to reducing planet-warming emissions.
+
+John saw Mary and her father at the park. He was alarmed by the old man’s fierce glare.
+
+
+=================
+4. OPENLP TOOLS   
+=================
+
+ . Slides 
+
+ . Models
+  http://opennlp.sourceforge.net/models.html
+
+  . Overview na documentação dele
+     https://opennlp.apache.org/documentation/1.7.2/manual/opennlp.html
+
+
+===========
+5. LINGPIPE  
+===========
+
+http://alias-i.com/lingpipe/
+
+Geral no site
+  / download (diferentes versões)
+  / modelos 
+
+  / tutoriais (alguns que iremos ver)
+     . classification
+     . Sentiment Analysis
+     . Language Identification
+
+   Tem um livro grátis para baixar
+   http://alias-i.com/lingpipe-book/lingpipe-book-0.5.pdf
+
+
+=================
+6.  FREELING 
+=================
+
+   . inglês e português
+
+    http://nlp.cs.upc.edu/freeling/
+
+   / features  - ressaltar apenas 
+      Compound-word recognition
+      Semantic graph extraction
+
+/Documentation 
+  / User Manual
+     . Ver no manual - Compound-Word e Semantic Graph
+ 
+  / Tutorial
+     . em C++ e Python
+
+===========
+7.  NLTK 
+============
+
+Slides
+
+// Slides na Web
+https://www.slideshare.net/japerk/nltk-in-20-minutes
+
+DEMO
+http://text-processing.com/demo/
+
+
+==========
+8. SPACY  
+==========
+
+  Escrito em Cython
+  Para English and German
+
+Direto no site
+https://spacy.io/docs/usage/
+
+ /MODELS
+  .  Dense Vector MOdels modelos > 1GB
+
+Comparativo com outras ferramentas
+ https://spacy.io/docs/api/
+
+Tour
+  https://spacy.io/docs/usage/lightning-tour
+
+
+============================
+8. Pattern CLIPS (Python)
+===========================
+http://www.clips.ua.ac.be/
+
+
+9. Word Cloud
+https://github.com/amueller/word_cloud
+
+
+
+
+

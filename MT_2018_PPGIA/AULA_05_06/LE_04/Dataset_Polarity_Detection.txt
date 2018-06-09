@@ -1,0 +1,22 @@
+================================
+Dataset Polarity Detection
+================================
+Este dataset contem 2.000 reviews sobre filmes.
+1.000 reviews positivas
+1.000 reviews negativas
+
+
+O preprocessamento deve eliminar:
+
+. Stopwords (procurar por lista na web)
+. simbolos de pontuação, exceto os sinais de exclamação.
+. qualquer outro símbolo que não seja palavra
+. stemming
+. converter todas as palavras para minúsculas
+
+
+
+
+
+
+

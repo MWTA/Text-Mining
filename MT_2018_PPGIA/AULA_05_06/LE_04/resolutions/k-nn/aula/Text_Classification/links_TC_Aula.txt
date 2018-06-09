@@ -1,0 +1,29 @@
+
+
+ÓTIMO TUTORIAL - NAIVE BAYES
+
+http://www.itshared.org/2015/03/naive-bayes-on-apache-flink.html
+
+http://www.python-course.eu/text_classification_python.php
+
+
+k-NN
+http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+
+http://www.kdnuggets.com/2016/01/implementing-your-own-knn-using-python.html
+
+
+Videos
+https://www.youtube.com/watch?v=UqYde-LULfs
+
+
+TUTORIAL
+https://icemerly.wordpress.com/2014/10/31/machine-learning-algorithm-knn-naive-bayes-decision-tree/
+
+Confusion Matrix
+http://stats.stackexchange.com/questions/116585/confusion-matrix-of-classification-rules
+
+
+Tutorial - muito bom
+http://www.kdnuggets.com/2016/08/bias-variance-tradeoff-overview.html
+

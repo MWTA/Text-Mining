@@ -1,0 +1,17 @@
+
+
+Converting file directories to weka ARFF file
+
+1. Start Weka Simple GUI and type:
+
+java weka.core.converters.TextDirectoryLoader -dir "C:\folder_with_texts" > "C:\output_folder\dataset.arff"
+
+
+Tutorial: Document Classification using WEKA (muito bom!)
+https://medium.com/@karim_ouda/tutorial-document-classification-using-weka-aa98d5edb6fa
+
+
+How To Load CSV Machine Learning Data in Weka
+https://machinelearningmastery.com/load-csv-machine-learning-data-weka/
+
+

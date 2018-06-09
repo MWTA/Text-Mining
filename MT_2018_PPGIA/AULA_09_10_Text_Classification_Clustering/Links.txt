@@ -1,0 +1,74 @@
+TUTORIAL - TF-IDF
+=====================
+
+http://stevenloria.com/finding-important-words-in-a-document-using-tf-idf/
+
+https://gist.github.com/anabranch/48c5c0124ba4e162b2e3
+
+http://aimotion.blogspot.com.br/2011/12/machine-learning-with-python-meeting-tf.html
+
+
+Cálculo de TF Normalizado
+https://janav.wordpress.com/2013/10/27/tf-idf-and-cosine-similarity/
+
+Outros métodos de cálculo de pesos
+https://en.wikipedia.org/wiki/Tf%E2%80%93idf
+
+
+K-MEANS
+============
+
+https://en.wikipedia.org/wiki/K-means_clustering
+
+http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+
+https://home.deib.polimi.it/matteucc/Clustering/tutorial_html/kmeans.html
+
+http://stanford.edu/~cpiech/cs221/handouts/kmeans.html
+
+http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_ml/py_kmeans/py_kmeans_understanding/py_kmeans_understanding.html
+
+http://www.saedsayad.com/clustering_kmeans.htm
+
+https://algobeans.com/2015/11/30/k-means-clustering-laymans-tutorial/
+
+k-Means Tutorial Interativos
+http://people.revoledu.com/kardi/tutorial/kMean/
+
+
+Exemplo passo-a-passo (muito bom)
+
+http://ai.fon.bg.ac.rs/wp-content/uploads/2015/04/Clustering-K-means-EM-2015.pdf
+
+http://modelai.gettysburg.edu/2016/kmeans/assets/iris/Clustering_Iris_Data_with_Weka.pdf
+
+
+
+VIDEO DATA MINING WITH WEKA ( Do autor do WEKA)
+https://www.youtube.com/watch?v=9aODdNSAauI
+
+
+K-means in Python 
+https://datasciencelab.wordpress.com/2013/12/12/clustering-with-k-means-in-python/
+
+
+HIERARCHICAL CLUSTERING
+===========================
+
+http://www.saedsayad.com/clustering_hierarchical.htm
+
+https://en.wikipedia.org/wiki/Hierarchical_clustering
+
+In python - muito bom
+https://joernhees.de/blog/2015/08/26/scipy-hierarchical-clustering-and-dendrogram-tutorial/
+
+http://scikit-learn.org/stable/modules/clustering.html
+
+
+TUTORIAL - WEKA - COMPLETO
+http://csed.sggs.ac.in/csed/sites/default/files/WEKA%20Explorer%20Tutorial.pdf
+
+
+ARTIGO USANDO CLUSTERING NO WEKA
+https://pdfs.semanticscholar.org/3ce1/3269a325e0c7d4acdbd678e3bdd0c3d54a4d.pdf
+

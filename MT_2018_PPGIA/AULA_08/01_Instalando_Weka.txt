@@ -1,0 +1,27 @@
+=====================
+Installing Weka
+=====================
+
+Download Weka:
+
+Version 3.8.1
+http://prdownloads.sourceforge.net/weka/weka-3-8-1.zip
+
+
+Version 3.6.1
+https://sourceforge.net/projects/weka/files/weka-3-6/3.6.1/weka-3-6-1.zip/download
+
+
+
+First unzip the zip file. 
+   This will create a new directory called weka-3-8-1. 
+
+To run Weka, change into that directory and type:
+   java -Xmx800m -jar weka.jar
+
+where the -Xmx***m parameter denotes the java heap size (working memory)
+
+Note that Java needs to be installed on your system for this to work. 
+Also note, that using -jar will override your current CLASSPATH variable and only use the weka.jar.
+
+

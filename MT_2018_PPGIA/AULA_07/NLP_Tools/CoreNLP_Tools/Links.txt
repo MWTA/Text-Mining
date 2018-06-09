@@ -1,0 +1,24 @@
+
+Stanford Dependency Parsing
+https://nlp.stanford.edu/software/stanford-dependencies.shtml
+
+http://stanfordnlp.github.io/CoreNLP/dependencies.html
+
+CoreNLP em Python
+https://pypi.python.org/pypi/corenlp-python
+
+Tutoriais passo a passo
+https://sergeytihon.com/tag/stanford-nlp/
+http://eirew.blogspot.com.br/2014/11/analyzing-text-using-stanford-corenlp.html
+
+
+Performing Sentiment Analysis of Twitter using Java
+https://blog.openshift.com/day-20-stanford-corenlp-performing-sentiment-analysis-of-twitter-using-java/
+
+
+CoreNLP em Java e modelos
+http://stanfordnlp.github.io/CoreNLP/api.html
+
+Java API
+https://nlp.stanford.edu/nlp/javadoc/javanlp/
+

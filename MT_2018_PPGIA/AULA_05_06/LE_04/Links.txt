@@ -1,0 +1,54 @@
+
+
+Text Classification in Python
+
+http://www.nltk.org/book/ch06.html
+
+
+NAIVE BAYES
+
+Tutoriais
+
+https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
+
+http://sebastianraschka.com/Articles/2014_naive_bayes_1.html
+
+http://blog.datumbox.com/machine-learning-tutorial-the-naive-bayes-text-classifier/
+
+https://en.wikipedia.org/wiki/Naive_Bayes_classifier
+
+http://www.inf.ed.ac.uk/teaching/courses/inf2b/learnnotes/inf2b-learn-note07-2up.pdf
+
+Videos
+https://www.youtube.com/watch?v=EGKeC2S44Rs
+
+
+
+k-NN
+
+Tutoriais
+http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+
+Muito bom
+https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/
+
+http://garonfolo.dk/herbert/2015/05/r-text-classification-using-a-k-nearest-neighbour-model/
+
+https://raimonb.wordpress.com/2013/01/02/text-categorization-with-k-nearest-neighbors-using-lucene/
+
+https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
+
+
+Articles
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.2.3673&rep=rep1&type=pdf
+
+http://user.ceng.metu.edu.tr/~e120321/paper.pdf
+
+
+VIDEOS
+https://www.youtube.com/watch?v=0JsHvXmU0dA
+
+
+
+Comparando K-nn e NB
+http://research.ijcaonline.org/volume65/number23/pxc3886545.pdf/

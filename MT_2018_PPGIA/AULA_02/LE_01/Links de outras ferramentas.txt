@@ -1,0 +1,6 @@
+5 open source tools for taming text
+https://opensource.com/business/15/7/five-open-source-nlp-tools
+
+
+Natural Language Processing Tools
+http://www.phontron.com/nlptools.php

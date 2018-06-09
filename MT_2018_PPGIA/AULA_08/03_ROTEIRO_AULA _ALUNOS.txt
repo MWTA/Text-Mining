@@ -1,0 +1,87 @@
+================================
+TEXT CLASSIFICATION IN WEKA
+================================
+
+1. APRESENTAÇÃO DO WEKA
+
+2. Supervised Classification  (Dataset Iris.arff) 
+  . NAIVE BAYES
+  . K-NN 
+  . ARVORE DE DECISÃO (J48)
+      .  DECISION LIST (PART)
+  . REGRESSÃO LOGISTICA (SIMPLE LOGISTIC REGRESSION)
+  . SVM  (SMO)
+
+3. TEXT MINING - PREPROCESSING IN WEKA
+  . Dataset movie reviews
+  . Dataset NewsGroup
+
+   --> Gerando o vetor de representação (BOW)
+   --> Atribuindo pesos aos tokens types (Vocabulary)
+   --> tokenization, lemmatization  and scaling (pesos)
+     
+
+4. FEATURE SELECTION
+    . Supervised 
+
+=================================
+// PRÁTICA 
+=================================
+
+1. Reproduza os passos visto no Weka para o dataset de movie reviews
+
+  . NAIVE BAYES
+  . K-NN 
+  . REGRESSÃO LOGISTICA
+  . ARVORE DE DECISÃO
+    . J48
+    . Part 
+    . Random forest
+  . SVM
+  
+Pergunta Experimental:
+
+  . Quais os melhores algoritmos em cada caso?
+     . Use o preprocessamento de até 200 palavras por classe para o datasest News20groups
+     . Use o preprocessamento de até 1000 palavras por classe para o datasest MoviewReview
+
+     . Use Cross-validation
+     . Use datasets de treinamento e testes diferentes
+
+
+=======================================
+DATASET USADOS - Versões completas
+=======================================
+
+DATASET 20NEWSGROUP 
+http://qwone.com/~jason/20Newsgroups/20news-bydate.tar.gz
+  
+6. DATASET MOVIE REVIEWS
+http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz
+
+
+==============================================================
+CONVERSOR ONLINE DE ARQUIVOS .CSV PARA .ARFF FORMAT
+==============================================================
+
+http://ikuz.eu/csv2arff/
+
+
+==============================================================
+6. WEKA NO ECLIPSE - Automatização Experimentos por Scripts
+==============================================================
+
+ https://marcosvperboni.wordpress.com/2013/02/15/mineracao-de-dados-na-pratica-com-weka-api/
+
+ https://ianma.wordpress.com/2010/01/16/weka-with-java-eclipse-getting-started/
+
+ https://www.youtube.com/watch?v=da6Iq2XV7_Q
+
+ https://stackoverflow.com/questions/14924991/how-to-use-weka-source-code-in-eclipse
+
+
+
+
+
+
+

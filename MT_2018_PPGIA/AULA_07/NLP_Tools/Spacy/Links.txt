@@ -1,0 +1,23 @@
+
+
+https://spacy.io/
+
+Github- source code
+https://github.com/explosion/spaCy
+
+
+Tutorials
+https://www.npmjs.com/package/spacy-nlp
+
+http://textminingonline.com/getting-started-with-spacy
+
+https://nicschrading.com/project/Intro-to-NLP-with-spaCy/
+
+
+Python API
+https://pypi.python.org/pypi/spacy
+
+NLTK - Spacy
+http://blog.thedataincubator.com/2016/04/nltk-vs-spacy-natural-language-processing-in-python/
+
+https://www.quora.com/What-are-the-advantages-of-Spacy-vs-NLTK

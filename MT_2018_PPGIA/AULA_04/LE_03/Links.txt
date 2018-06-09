@@ -1,0 +1,44 @@
+
+===============
+EDIT DISTANCE
+===============
+
+Levenshtein demo
+http://www.let.rug.nl/~kleiweg/lev/
+
+https://en.wikipedia.org/wiki/Levenshtein_distance
+
+https://en.wikipedia.org/wiki/Edit_distance
+
+
+Tutorial
+http://people.cs.pitt.edu/~kirk/cs1501/Pruhs/Spring2006/assignments/editdistance/Levenshtein%20Distance.htm
+
+http://www.levenshtein.net/
+
+https://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Levenshtein_distance
+
+Video
+https://www.youtube.com/watch?v=aEIhvv5p-V8
+
+
+===============
+WORD PREDICTION
+===============
+
+https://en.wikipedia.org/wiki/Autocomplete
+
+http://www2.edc.org/ncip/library/wp/How.htm
+
+
+===============
+SPELLING CHECK
+===============
+
+Muito bom
+http://norvig.com/spell-correct.html
+
+https://impythonist.wordpress.com/2014/03/18/peter-norvigs-21-line-spelling-corrector-using-probability-theory/
+
+http://raelcunha.com/spell-correct/
+

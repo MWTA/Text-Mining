@@ -1,0 +1,24 @@
+==============================
+Text Classification in Weka 
+==============================
+
+
+Tutoriais
+
+https://medium.com/@karim_ouda/tutorial-document-classification-using-weka-aa98d5edb6fa
+
+
+http://www.scientificdatabases.ca/current-projects/english-spanish-text-data-mining/weka-tutorial-on-document-classification/
+
+http://www.coli.uni-saarland.de/courses/LT1/2014/slides/TextClassification-Weka.pdf
+
+http://ashrafsau.blogspot.com.br/2015/03/text-classification-in-weka-with.html
+
+
+Videos
+
+https://www.youtube.com/watch?v=jSZ9jQy1sfE
+https://www.youtube.com/watch?v=zlVJ2_N_Olo
+
+https://www.youtube.com/watch?v=IY29uC4uem8
+

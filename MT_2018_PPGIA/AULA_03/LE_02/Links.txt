@@ -1,0 +1,37 @@
+=============================
+MATERIAL EXTRA - Aula N-Grams
+=============================
+
+ZIPF'S LAW
+https://en.wikipedia.org/wiki/Zipf%27s_law
+
+Video muito interessante sobre as aplicações da lei de Zipf
+https://www.youtube.com/watch?v=fCn8zs912OE
+
+Ranking das palavras em inglês
+http://www.wordcount.org/main.php
+
+
+Geração de N-Grams em Python
+https://snippets.aktagon.com/snippets/619-how-to-generate-n-grams-with-python-and-nltk
+
+http://stackoverflow.com/questions/13423919/computing-n-grams-using-python
+
+http://stackoverflow.com/questions/17531684/n-grams-in-python-four-five-six-grams
+
+http://locallyoptimal.com/blog/2013/01/20/elegant-n-gram-generation-in-python/
+
+http://cl.indiana.edu/~md7/11/515/practical/04-python4/python4-2x3.pdf
+
+
+Tutorial num formato de artigo - Muito bom!
+https://pdfs.semanticscholar.org/3b46/9baa9bc5662f7702bfe4da0a72716acdbe4f.pdf
+
+N-Gram e Markov Model
+http://www.decontextualize.com/teaching/rwet/n-grams-and-markov-chains/
+
+
+100 Projetos no GitHub envolvendo N-grams
+http://meta-guide.com/software-meta-guide/100-best-github-n-gram
+
+
