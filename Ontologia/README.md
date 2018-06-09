@@ -1,0 +1,1 @@
+# [OWL 2 and SWRL Tutorial](https://dior.ics.muni.cz/~makub/owl/)
