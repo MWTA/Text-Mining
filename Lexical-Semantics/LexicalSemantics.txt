@@ -1,0 +1,113 @@
+===========
+TASKS:
+===========
+
+1. Estudar rapidamente, pelas páginas, os repositórios semânticos listados abaixo.
+
+Cada repositório semântico,pode ser visto como um dicionário,  que relaciona uma dada palavra,  
+com outras, semanticamente relacionadas. Isto pode ser explorado para se saber o "sentido" de uma palavra
+numa frase. 
+
+2. Baixar, instalar e configurar as API que permitem acessar e explorar estas repositórios semânticos,
+também chamados de  Lexical Semantic Database.
+
+3. Pegar 2 frases curtas,2 médias e 2 mais longas do dataset SemEval 2018
+   Rodar em cada ferramenta abaixo.
+   Escrever relatório resumido de como instalar/usar estas ferramentas.     
+   Compartilhar numa pasta no google drive com todos.
+    
+4. Reunião com todos para brainstorming e aplicações nos projetos de vocês.
+
+DATA: 18/06  --> 14H, 18H ou 19H
+
+** Dividam as tarefas entre vocês,  se organizem e bom trabalho!
+
+
+ARTIGOS PARA SABER MAIS SOBRE LEXICAL SEMANTICS
+
+http://www.aclweb.org/anthology/C16-1213
+
+https://pdfs.semanticscholar.org/presentation/3a46/1c059a51705a12cf9283adcbeb97a14a39b0.pdf
+
+http://www.aclweb.org/anthology/W08-2212
+
+https://www.cs.cmu.edu/~nschneid/thesis/thesis-print.pdf
+
+http://www.aclweb.org/anthology/W03-1022
+
+
+------------------------------------------------------------------------
+
+
+=====================================
+LISTA DE REPOSITÓRIOS A TESTAR/USAR:
+=====================================
+
+(1) Wordnet ( repositório )
+https://wordnet.princeton.edu/
+
+ --> API para acessar: https://projects.csail.mit.edu/jwi/  em java
+
+  --> API em Python: 
+		https://pythonprogramming.net/wordnet-nltk-tutorial/
+		http://www.nltk.org/howto/wordnet.html
+
+(2) WordNet Domains
+http://wndomains.fbk.eu/
+
+(3) VerbNet
+https://verbs.colorado.edu/~mpalmer/projects/verbnet.html
+
+(4) BabelNet
+https://babelnet.org/
+
+(5) PropBank e Levin Classes
+http://www.nltk.org/howto/propbank.html
+
+(6) SEMANTIC ROLE LABELING
+
+6.1 SEMAFOR  (baseada no FrameNet)
+http://www.cs.cmu.edu/~ark/SEMAFOR/
+
+
+6.2 ClearNLP  (Baseado no PropBank)
+https://github.com/clearnlp
+  . Instalar o ClearNLP 
+      https://github.com/clearnlp/clearnlp
+  . Usar o módulo 
+      https://github.com/clearnlp/clearnlp-general-en-srl
+
+
+
+
+SUPER SENSE TAGGING
+
+(7) https://github.com/nschneid/pysupersensetagger  ( EM Python)
+
+(8) https://github.com/kutschkem/SmithHeilmann_fork/tree/master/MIRATagger
+    http://www.cs.cmu.edu/~ark/LexSem/
+
+
+ONTOLOGIAS:
+--------------
+(9) YAGO
+https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/
+ 
+ é uma ontologia muito grande. Mais de 1 TeraByte. 
+Sei que tem versões parciais (partes dela disponíveis que possa ser usada no projeto sem problemas).
+ 
+
+ONTOLOGIAS DE COMMON SENSE KNOWLEDGE
+-------------------------------------------
+(10) ConceptNet
+ http://conceptnet.io/
+
+(11) SEMATCH 
+https://github.com/gsi-upm/sematch
+
+(12)  GENSIM: Especialmente para Francisco
+permite calcular a similiridade entre 2 palavras usando Word Embeddings(em Python)
+https://radimrehurek.com/gensim/models/word2vec.html
+
+
+
