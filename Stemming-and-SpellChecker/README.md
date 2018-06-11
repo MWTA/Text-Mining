@@ -8,7 +8,6 @@
 
 [Artigo sobre o Porter2 Algorithm](http://ijcsit.com/docs/Volume%207/vol7issue1/ijcsit2016070159.pdf)
 
-
 # Hunspell  - Spellchecker (Verificador de ortografia)
 
 A idéia é procurar neste dicionário se a palavra existe,  se não existir, pegar 
