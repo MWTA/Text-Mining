@@ -9,7 +9,7 @@ service_url = 'https://babelfy.io/v1/disambiguate'
 
 text = 'BabelNet is both a multilingual encyclopedic dictionary and a semantic network'
 lang = 'EN'
-key = '5e962130-b37f-4105-8512-4c97b4f3cb30'
+key = '5e962130-b37f-4105-8512-4c97b4f3c]b30'
 
 params = {
     'text': text,
