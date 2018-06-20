@@ -20,6 +20,8 @@
 
 - [SpaCy](https://spacy.io/)
 
+    - [Complete Guide to spaCy](https://nlpforhackers.io/complete-guide-to-spacy/)
+
 - [Tensorflow](https://www.tensorflow.org/)
 
 - [TFLearn](http://tflearn.org/)

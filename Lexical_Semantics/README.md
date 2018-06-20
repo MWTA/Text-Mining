@@ -8,9 +8,7 @@
 
     - [Conceptnet](http://conceptnet.io/)
     
-    - [Gensim]()
-
-    - [Word2Vec]()
+    - [Gensim](https://radimrehurek.com/gensim/)
 
     - [Wordnet](https://wordnet.princeton.edu/)
 
