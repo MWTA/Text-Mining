@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+# import nltk
+# nltk.download('wordnet')
+
 # primeiro você importa o wordnet.
 from nltk.corpus import wordnet
 
