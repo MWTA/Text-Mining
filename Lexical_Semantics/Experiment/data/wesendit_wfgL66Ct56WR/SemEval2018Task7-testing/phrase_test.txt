@@ -1,8 +1,6 @@
 For the results, term weight learning is performed.
 The results of experiment demonstrate the effectiveness of the method.
-
+In our method, collocations which characterise every sense are extracted using similarity-based estimation.
 This paper describes unsupervised learning algorithm for disambiguating verbal word senses using term weight learning.
-In our method, collocations which characterise every sense are extracted using similarity-based estimation. 
-
+As the number of necessary bilingual dictionaries is a quadratic function of the number of languages considered, we will face the problem of getting a large number of dictionaries.
 To identify active region arguments,this paper models Maximal Projection (MP), which is a concept in D-structure from the projection principle of the Principle and Parameters theory.
-As the number of necessary bilingual dictionaries is a quadratic function of the number of languages considered, we will face the problem of getting a large number of dictionaries. 
