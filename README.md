@@ -1,6 +1,5 @@
 # Text Mining
-
-
+My Student the Text Mining
 
 # Blog
 

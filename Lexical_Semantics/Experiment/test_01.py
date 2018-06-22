@@ -9,6 +9,7 @@
 """
 
 import spacy
+from nltk.corpus import wordnet
 
 nlp = spacy.load('en')
 
@@ -24,12 +25,18 @@ def load_data(path_dataset):
     return temp
 
 
+def pos_tagging(doc):
+    for token in doc:
+        print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_,
+              token.shape_, token.is_alpha, token.is_stop)
+
+
 def main():
-    data = load_data(path_root)
-    for line in data:
+    dataset = load_data(path_root)
+
+    for line in dataset:
         doc = nlp(line)
-        for token in doc:
-            print(token.text, token.pos_, token.dep_)
+        pos_tagging(doc)
 
 
 if __name__ == '__main__':
