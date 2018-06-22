@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc filename="Nome_Dataset.xml">
+    <sentences>
+        <sentence has_ne="true" s_id="s_1" text="the family had been heading to New-Hampshire from Lakeland , Florida when their plane went down ." >
+            <tokens>
+                <token ck_ot="NP" ck_tag_ot="B-NP" end="3" length="3" orth="LowerCase" pos="DT" s_id="s_1" start="0" stem="the" string="the" t_id="t_1" type="Word" />
+                <token ck_ot="NP" ck_tag_ot="I-NP" coreNP="true" end="10" length="6" orth="LowerCase" pos="NN" s_id="s_1" start="4" stem="family" string="family" t_id="t_2" type="Word" />
+                <token ck_ot="VP" ck_tag_ot="B-VP" end="14" length="3" orth="LowerCase" pos="VBD" s_id="s_1" start="11" stem="have" string="had" t_id="t_3" type="Word" />
+                <token ck_ot="VP" ck_tag_ot="I-VP" end="19" length="4" orth="LowerCase" pos="VBN" s_id="s_1" start="15" stem="be" string="been" t_id="t_4" type="Word" />
+                <token ck_ot="VP" ck_tag_ot="I-VP" coreVP="true" end="27" length="7" orth="LowerCase" pos="VBG" s_id="s_1" start="20" stem="head" string="heading" t_id="t_5" type="Word" />
+                <token ck_ot="PP" ck_tag_ot="B-PP" corePP="true" end="30" length="2" orth="LowerCase" pos="TO" s_id="s_1" start="28" stem="to" string="to" t_id="t_6" type="Word" />
+                <token ck_ot="NP" ck_tag_ot="B-NP" coreNP="true" end="44" length="13" orth="MixedCase" pos="NNP" s_id="s_1" start="31" stem="New-Hampshire" string="New-Hampshire" t_id="t_7" type="Word" />
+                <token ck_ot="PP" ck_tag_ot="B-PP" corePP="true" end="49" length="4" orth="LowerCase" pos="IN" s_id="s_1" start="45" stem="from" string="from" t_id="t_8" type="Word" />
+                <token ck_ot="NP" ck_tag_ot="B-NP" end="58" length="8" ner="LOCATION" orth="UpperInitial" pos="NNP" s_id="s_1" start="50" stem="Lakeland" string="Lakeland" t_id="t_9" type="Word" />
+                <token ck_ot="NP" ck_tag_ot="I-NP" end="60" length="1" orth="null" pos="," s_id="s_1" start="59" stem="," string="," t_id="t_10" type="Symb" />
+                <token ck_ot="NP" ck_tag_ot="I-NP" coreNP="true" end="68" length="7" ner="LOCATION" orth="UpperInitial" pos="NNP" s_id="s_1" start="61" stem="Florida" string="Florida" t_id="t_11" type="Word" />
+                <token ck_ot="ADVP" ck_tag_ot="B-ADVP" end="73" length="4" orth="LowerCase" pos="WRB" s_id="s_1" start="69" stem="when" string="when" t_id="t_12" type="Word" />
+                <token ck_ot="NP" ck_tag_ot="B-NP" end="79" length="5" orth="LowerCase" pos="PRP$" s_id="s_1" start="74" stem="they" string="their" t_id="t_13" type="Word" />
+                <token ck_ot="NP" ck_tag_ot="I-NP" coreNP="true" end="85" length="5" orth="LowerCase" pos="NN" s_id="s_1" start="80" stem="plane" string="plane" t_id="t_14" type="Word" />
+                <token ck_ot="VP" ck_tag_ot="B-VP" coreVP="true" end="90" length="4" orth="LowerCase" pos="VBD" s_id="s_1" start="86" stem="go" string="went" t_id="t_15" type="Word" />
+                <token ck_ot="ADVP" ck_tag_ot="B-ADVP" end="95" length="4" orth="LowerCase" pos="RB" s_id="s_1" start="91" stem="down" string="down" t_id="t_16" type="Word" />
+                <token end="97" length="1" orth="null" pos="." s_id="s_1" start="96" stem="." string="." t_id="t_17" type="Symb" />
+            </tokens>
+            <syntatic_parsing input="(ROOT (S (NP (DT the) (NN family)) (VP (VBD had) (VP (VBN been) (VP (VBG heading) (PP (TO to) (NP (NNP New-Hampshire))) (PP (IN from) (NP (NP (NNP Lakeland) (, ,) (NNP Florida)) (SBAR (WHADVP (WRB when)) (S (NP (PRP$ their) (NN plane)) (VP (VBD went) (ADVP (RB down)))))))))) (. .)))">
+            </syntatic_parsing>
+            <chunkings>
+                <chunking ck_id="ck_1" s_id="s_1" text="the family" type="np">
+                    <tokens>
+                        <token string="the" t_id="t_1" />
+                        <token coreNP="true" string="family" t_id="t_2" />
+                    </tokens>
+                </chunking>
+                <chunking ck_id="ck_2" s_id="s_1" text="had been heading" type="vp">
+                    <tokens>
+                        <token string="had" t_id="t_3" />
+                        <token string="been" t_id="t_4" />
+                        <token coreVP="true" string="heading" t_id="t_5" />
+                    </tokens>
+                </chunking>
+                <chunking ck_id="ck_3" s_id="s_1" text="to" type="pp">
+                    <tokens>
+                        <token corePP="true" string="to" t_id="t_6" />
+                    </tokens>
+                </chunking>
+                <chunking ck_id="ck_4" s_id="s_1" text="New-Hampshire" type="np">
+                    <tokens>
+                        <token coreNP="true" string="New-Hampshire" t_id="t_7" />
+                    </tokens>
+                </chunking>
+                <chunking ck_id="ck_5" s_id="s_1" text="from" type="pp">
+                    <tokens>
+                        <token corePP="true" string="from" t_id="t_8" />
+                    </tokens>
+                </chunking>
+                <chunking ck_id="ck_6" s_id="s_1" text="Lakeland , Florida" type="np">
+                    <tokens>
+                        <token string="Lakeland" t_id="t_9" />
+                        <token string="," t_id="t_10" />
+                        <token coreNP="true" string="Florida" t_id="t_11" />
+                    </tokens>
+                </chunking>
+                <chunking ck_id="ck_7" s_id="s_1" text="when" type="advp">
+                    <tokens>
+                        <token string="when" t_id="t_12" />
+                    </tokens>
+                </chunking>
+                <chunking ck_id="ck_8" s_id="s_1" text="their plane" type="np">
+                    <tokens>
+                        <token string="their" t_id="t_13" />
+                        <token coreNP="true" string="plane" t_id="t_14" />
+                    </tokens>
+                </chunking>
+                <chunking ck_id="ck_9" s_id="s_1" text="went" type="vp">
+                    <tokens>
+                        <token coreVP="true" string="went" t_id="t_15" />
+                    </tokens>
+                </chunking>
+                <chunking ck_id="ck_10" s_id="s_1" text="down" type="advp">
+                    <tokens>
+                        <token string="down" t_id="t_16" />
+                    </tokens>
+                </chunking>
+            </chunkings>
+            <dependencies>
+                <input text="det(family-2,the-1)&#xA;nsubj(heading-5,family-2)&#xA;aux(heading-5,had-3)&#xA;aux(heading-5,been-4)&#xA;prep_to(heading-5,New-Hampshire-7)&#xA;nn(Florida-11,Lakeland-9)&#xA;prep_from(heading-5,Florida-11)&#xA;advmod(went-15,when-12)&#xA;poss(plane-14,their-13)&#xA;nsubj(went-15,plane-14)&#xA;rcmod(Florida-11,went-15)&#xA;advmod(went-15,down-16)&#xA; root(ROOT-0,heading-5)" />
+                <pair rel="det">
+                    <arg1 id="t_2" seq="2" string="family" />
+                    <arg2 id="t_1" seq="1" string="the" />
+                </pair>
+                <pair rel="nsubj">
+                    <arg1 id="t_5" seq="5" string="heading" />
+                    <arg2 id="t_2" seq="2" string="family" />
+                </pair>
+                <pair rel="aux">
+                    <arg1 id="t_5" seq="5" string="heading" />
+                    <arg2 id="t_3" seq="3" string="had" />
+                </pair>
+                <pair rel="aux">
+                    <arg1 id="t_5" seq="5" string="heading" />
+                    <arg2 id="t_4" seq="4" string="been" />
+                </pair>
+                <pair rel="prep_to">
+                    <arg1 id="t_5" seq="5" string="heading" />
+                    <arg2 id="t_7" seq="7" string="New-Hampshire" />
+                </pair>
+                <pair rel="prep_from">
+                    <arg1 id="t_5" seq="5" string="heading" />
+                    <arg2 id="t_11" seq="11" string="Florida" />
+                </pair>
+                <pair rel="nn">
+                    <arg1 id="t_11" seq="11" string="Florida" />
+                    <arg2 id="t_9" seq="9" string="Lakeland" />
+                </pair>
+                <pair rel="rcmod">
+                    <arg1 id="t_11" seq="11" string="Florida" />
+                    <arg2 id="t_15" seq="15" string="went" />
+                </pair>
+                <pair rel="poss">
+                    <arg1 id="t_14" seq="14" string="plane" />
+                    <arg2 id="t_13" seq="13" string="their" />
+                </pair>
+                <pair rel="advmod">
+                    <arg1 id="t_15" seq="15" string="went" />
+                    <arg2 id="t_16" seq="16" string="down" />
+                </pair>
+                <pair rel="advmod">
+                    <arg1 id="t_15" seq="15" string="went" />
+                    <arg2 id="t_12" seq="12" string="when" />
+                </pair>
+                <pair rel="nsubj">
+                    <arg1 id="t_15" seq="15" string="went" />
+                    <arg2 id="t_14" seq="14" string="plane" />
+                </pair>
+                <pair rel="root">
+                    <arg1 id="t_0" seq="0" string="ROOT" />
+                    <arg2 id="t_5" seq="5" string="heading" />
+                </pair>
+            </dependencies>
+            <instances>
+                <entities>
+                    <entity e_id="ne_1" is_rel_arg="false" ne_string="New-Hampshire" ne_subtype="State-or-Province" ne_type="GPL" s_id="s_1" t_id="t_7" />
+                    <entity e_id="ne_2" is_rel_arg="true"  ne_string="Lakeland" ne_subtype="Population-Center" ne_type="GPL" s_id="s_1" t_id="t_9" />
+                    <entity e_id="ne_3" is_rel_arg="true"  ne_string="Florida" ne_subtype="State-or-Province" ne_type="GPL" s_id="s_1" t_id="t_11" />
+                    <entity e_id="ne_4" is_rel_arg="false" ne_string="their" ne_subtype="Group" ne_type="PER" s_id="s_1" t_id="t_13" />
+                </entities>
+                <rels>
+                    <rel arg1="t_9" arg2="t_7"  is_pos="false" rel_id="r_1" rel_subtype="geographical" rel_type="prt-whl" />
+                    <rel arg1="t_9" arg2="t_11" is_pos="true" rel_id="r_2" rel_subtype="geographical" rel_type="prt-whl" />
+                    <rel arg1="t_13" arg2="t_9" is_pos="false" rel_id="r_3" rel_subtype="geographical" rel_type="prt-whl" />
+                </rels>
+            </instances>
+        </sentence>
+    </sentences>
+</doc>

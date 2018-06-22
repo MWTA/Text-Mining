@@ -2,8 +2,6 @@
 
 - [Chainer](https://chainer.org/) - uma estrutura para redes neurais artificiais for Python.
 
-- [CoreNLP de Stanford](https://stanfordnlp.github.io/CoreNLP/)
-
 - [Deeplearning4j](https://deeplearning4j.org/) - Deep Learning for Java.
 
 - [Deepnl](https://github.com/attardi/deepnl) - Python Redes Neurais Artificiais para NLP.
@@ -21,6 +19,8 @@
 - [SpaCy](https://spacy.io/)
 
     - [Complete Guide to spaCy](https://nlpforhackers.io/complete-guide-to-spacy/)
+
+- [CoreNLP de Stanford](https://stanfordnlp.github.io/CoreNLP/)
 
 - [Tensorflow](https://www.tensorflow.org/)
 

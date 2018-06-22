@@ -26,6 +26,10 @@
 
         - O PropBank Corpus fornece anotações de argumentos de predicados para todo o Penn Treebank. Cada verbo no treebank é anotado por uma única instância no PropBank, contendo informações sobre a localização do verbo e a localização e identidade de seus argumentos.
 
+    - [SEMAFOR](http://www.cs.cmu.edu/~ark/SEMAFOR/)
+
+        - É um analisador semântico de quadros, processa automáticamente sentenças em inglês de acordo com a forma de análise semântica do FrameNet.
+
     - [SEMATCH](https://github.com/gsi-upm/sematch)
 
         - Sematch é uma estrutura integrada para o desenvolvimento, avaliação e aplicação de similaridade semântica para gráficos de conhecimento (KGs).
