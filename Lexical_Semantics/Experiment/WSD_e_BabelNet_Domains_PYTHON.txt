@@ -1,0 +1,85 @@
+
+Pessoal
+
+  Segue 2 outras ferramentas de WSD que encontrei no GitHub em Python.
+Bem simples de instalar e usar. E tem exemplos.
+  A ferrementa (2) tem até um demo web para vocês  rodarem e depois
+passar o mouse por cima das palavras e ir vendo os sense_id que foram 
+desambiguados.
+  Frisando que temos 2 problemas de  desambiguação em nossa pesquisa:
+
+ 1. Desambiguar os VERBOS (ou predicados) - usando  de preferência
+      . o SEMAFOR (baseado no Framenet) - é mais detalhado
+      . Probank (NLTK) basedo no Probank,  mas menos detalhado que o Semafor
+      . VerbNet - fornece informações extras apenas sobre verbos
+
+ 2.  Desambiguar os SUBSTANTIVOS ( nouns ) - usando  de preferência
+    . Babelfy
+    . UKB
+    . Lesc
+    . outros (mostrado abaixo)
+
+
+Para as pesquisas de  vocês,  precisamos de ambos!
+
+Instalem tudo que puderem e testes usando o MESMO conjunto de frases que eu repassei. 
+Não precisa nesta fase ainda, gerar a saída em XML. 
+Vamos primeiro testar e "sentir" as ferramentas e quão boas elas são.
+Para ajudar nestes sentido,  é bom ler rapidamente apenas as seções de experimentos 
+dos artigos das propostas e ver a  comparação entre  eles.
+ Mas, normalmente,  os sistemas de WSD mais recentes, são melhores do que os mais antigos.
+
+
+==================
+WSD em Python
+==================
+
+Encontrei ferramentas mais simples para WSD. 
+A questão é saber se estão são tão boas quanto o SEMAFOR.
+Neste caso,  é bom testar várias.
+
+
+ALANE: teste estas aqui. Muito simples  de instalar e usar. 
+https://github.com/alvations/pywsd
+
+
+(1) 
+Lesk algorithms
+
+1. Original Lesk (Lesk, 1986)
+2. Adapted/Extended Lesk (Banerjee and Pederson, 2002/2003)
+3. Simple Lesk (with definition, example(s) and hyper+hyponyms)
+4. Cosine Lesk (use cosines to calculate overlaps instead of using raw counts)
+
+
+Maximizing Similarity (see also, http://goo.gl/MG8ZpE)
+
+5. Path similarity (Wu-Palmer, 1994; Leacock and Chodorow, 1998)
+6. Information Content (Resnik, 1995; Jiang and Corath, 1997; Lin, 1998)
+
+
+
+
+======================================================
+(2)  BASEADO NO WORDNET
+======================================================
+
+supWSD  -- FRANCISCO. TENTE INSTALAR E RODAR ESTE AQUI
+https://github.com/SI3P/supWSD
+
+Demo Online mostrando como uma frase é desambiguada e anotada
+https://supwsd-supwsdweb.1d35.starter-us-east-1.openshiftapps.com/supwsdweb/demo
+
+
+
+==============
+Alane
+ 
+ Além do Extended WordNet Domains,  veja este aqui também baseado no BabelNet, sendo este último mais 
+completo do que o primeiro. Mas é bom testar isso.
+
+Artigo dele
+http://www.aclweb.org/anthology/E17-2036
+
+Sistema aqui
+http://lcl.uniroma1.it/babeldomains/
