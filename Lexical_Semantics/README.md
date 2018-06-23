@@ -2,6 +2,10 @@
 
 - Repositories
 
+    - [BabelDomains](http://lcl.uniroma1.it/babeldomains/)
+
+        - BabelDomains é um recurso unificado que inclui informações de domínio para itens lexicais incluídos em diferentes recursos léxicos ( BabelNet, Wikipedia e WordNet ). 
+
     - [Babelfy](http://babelfy.org/)
 
         - é uma abordagem unificada, multilingue e baseada em grafos para Entity Linking e Word Sense Diambiquation baseada numa identificação frouxa de sifnificados candidatos acoplada a uma heurística subgráfica mais densa que seleciona interpretações semânticas de alta coerência.
@@ -13,6 +17,10 @@
     - [Conceptnet](http://conceptnet.io/)
 
         - É uma rede semântica disponível gratuitamente, projetada para ajudar os computadores a entender o sigificado das palavras que as pessoas usam.
+
+    - [eXtended WordNet Domains](http://adimen.si.ehu.es/web/XWND)
+
+        - 
 
     - [FrameNet](https://framenet.icsi.berkeley.edu/fndrupal/)
 
@@ -34,6 +42,12 @@
 
         - Sematch é uma estrutura integrada para o desenvolvimento, avaliação e aplicação de similaridade semântica para gráficos de conhecimento (KGs).
 
+    - [supWSD](https://github.com/SI3P/supWSD)
+
+        - O supWSD é um sistema de desambiguação de sentido de palavra supervisionado. A estrutura flexível do supWSD permite que os usuários combinem diferentes módulos de pré-processamento, selecionem extratores de recursos e escolham qual classificador usar. O SupWSD é muito leve e possui requisitos de memória muito pequenos.
+
+    - [UKB]()
+
     - [VerbNet](https://verbs.colorado.edu/~mpalmer/projects/verbnet.html)
 
         - É o maior léxico verbal on-line atualmente disponível para o inglês. É um léxico de verbos de cobertura ampla, independente de domínio, com mapeamentos para outros recursos lexicais, como WordNet entre outros.
@@ -45,6 +59,10 @@
     - [WordNet Domains](http://wndomains.fbk.eu/)
 
         - É um recurso léxico criado de maneira semiautomática, aumentando o WordNet con rótulos de domínio.
+
+    - [WSD](https://github.com/alvations/pywsd)
+
+        - Tecnologias de Desambiguação de Word Sense. 
 
     - [YAGO](https://old.datahub.io/dataset/yago)
         
