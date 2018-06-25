@@ -12,6 +12,8 @@
 
 - [Nlpnet](https://github.com/erickrf/nlpnet)
 
+- [NLTK](http://www.nltk.org/)
+
 - [OpenNMT](http://opennmt.net/) - Tradução automática em Python.
 
 - [PyTorch](https://pytorch.org/) - Estrutura de Rede Neural rápida e flexivel com paradigma imperativo.
@@ -20,7 +22,7 @@
 
     - [Complete Guide to spaCy](https://nlpforhackers.io/complete-guide-to-spacy/)
 
-- [CoreNLP de Stanford](https://stanfordnlp.github.io/CoreNLP/)
+- [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/)
 
 - [Tensorflow](https://www.tensorflow.org/)
 

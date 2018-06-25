@@ -26,13 +26,24 @@
 
         - Um banco de dados léxico do inglên que é legível tanto por seres humanos quanto por máquinas, baseado em exemplos de anotações de como as  plavras são usadas em textos reais.
 
+        - [FrameNet](http://www.nltk.org/howto/framenet.html)
+
     - [GENSIM](https://radimrehurek.com/gensim/)
 
         - Um kit de ferramentas robusto de modelagem de espaço vetorial e modelagem de tópico de código aberto, implementado em Python, projetado para extrair automaticamente os tópicos semânticos, da maneira mais eficiente (em termos de computador) e sem problemas (em termos humanos) quanto possível.
 
+    - [Lesc]()
+
+    - [Predicate Matrix](http://adimen.si.ehu.es/web/PredicateMatrix)
+
+        - É um novo recurso léxico resultante da integração de múltiplas fontes de informação de predicado, incluindo FrameNet , VerbNet , PropBank , WordNet e ESO .
+
+
     - [PropBank](http://www.nltk.org/howto/propbank.html)
 
         - O PropBank Corpus fornece anotações de argumentos de predicados para todo o Penn Treebank. Cada verbo no treebank é anotado por uma única instância no PropBank, contendo informações sobre a localização do verbo e a localização e identidade de seus argumentos.
+
+    - [Proposition Bank](http://verbs.colorado.edu/~mpalmer/projects/ace.html)
 
     - [SEMAFOR](http://www.cs.cmu.edu/~ark/SEMAFOR/)
 
@@ -42,11 +53,15 @@
 
         - Sematch é uma estrutura integrada para o desenvolvimento, avaliação e aplicação de similaridade semântica para gráficos de conhecimento (KGs).
 
+    - [SemLink](http://verbs.colorado.edu/semlink/)
+
     - [supWSD](https://github.com/SI3P/supWSD)
 
         - O supWSD é um sistema de desambiguação de sentido de palavra supervisionado. A estrutura flexível do supWSD permite que os usuários combinem diferentes módulos de pré-processamento, selecionem extratores de recursos e escolham qual classificador usar. O SupWSD é muito leve e possui requisitos de memória muito pequenos.
 
-    - [UKB]()
+    - [UKB](http://ixa2.si.ehu.es/ukb/)
+
+        - O UKB é uma coleção de programas para executar a Desambiguação do Sentido do Word (WSD) baseada em gráficos e a similaridade / relação lexical usando uma base de conhecimento pré-existente. O UKB aplica passeios aleatórios, por exemplo, PageRank Personalizado, no gráfico da Base de Conhecimento (KB) para classificar os vértices de acordo com o contexto dado. Inclui ferramentas para produzir gráficos de KBs como o WordNet .
 
     - [VerbNet](https://verbs.colorado.edu/~mpalmer/projects/verbnet.html)
 
